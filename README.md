@@ -29,10 +29,11 @@ HACK İÇİN YARARLI WEB SİTELERİ GARDAŞ AL KULLAN
 * [EN ÖNEMLİ PLAYLİST 3 => HackerSploit/ Ethical Hacking & Penetration Testing - Complete Course](https://www.youtube.com/watch?v=XjVYl1Ts6XI&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl&index=36)
 * [EN ÖNEMLİ PLAYLİST 4 => Joseph Delgadillo/The Complete Kali Linux Course: Beginner to Advanced! w/English Subtitles](https://www.youtube.com/watch?v=ElWo5fd4rIU&list=PLYmlEoSHldN7HJapyiQ8kFLUsk_a7EjCw)
 * [EN ÖNEMLİ PLAYLİST 5 => freeCodeCamp/Ethical Hacking](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu)
-[EN ÖNEMLİ PLAYLİST 6 => Complete Ethical Hacking Tutorial for Beginners to Pro 2022 🔥](https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R)
+* [EN ÖNEMLİ PLAYLİST 6 => Complete Ethical Hacking Tutorial for Beginners to Pro 2022 🔥](https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R)
 * [LuNiZz Hacking The TEMEL](https://www.twitch.tv/collections/sHv1c2HZEhaHFQ)
 * [LuNiZz HACK](https://www.twitch.tv/collections/JbIfA4EXwxXZ_A)
 * [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&t=19648s)
+* [ David Bombal// Kali Linux: Ethical Hacking Getting Started Course](https://www.youtube.com/playlist?list=PLhfrWIlLOoKMe1Ue0IdeULQvEgCgQ3a1B)
 
 # **YOUTUBE HACK CHANNELL**
 * [EN ÖNEMLİ KANAL 1 => HackerSploit ](https://www.youtube.com/c/HackerSploit/featured)
