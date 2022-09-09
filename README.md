@@ -19,7 +19,7 @@ HACK İÇİN YARARLI WEB SİTELERİ GARDAŞ AL KULLAN
 * [thecybermentor](https://www.thecybermentor.com)
 * [Sunucular Nedir, Nasıl Çalışır, Bileşenleri ve Kullanım Amaçları Nelerdir?](https://www.turkhackteam.org/konular/sunucular-nedir-nasil-calisir-bilesenleri-ve-kullanim-amaclari-nelerdir.2013721/)
 * [ders.im](https://ders.im/kategori/siber-guvenlik)
-
+* [Ağ Cihazları Nelerdir? - Avantajları ve Dezavantajları](https://www.turkhackteam.org/konular/ag-cihazlari-nelerdir-avantajlari-ve-dezavantajlari.2013517/)
 
 # **YOUTUBE HACK PLAYLIST**
 * [-!-Loi Liang Yang/Ethical Hacking and Penetration Testing Series BU PLAYLİSTİ SATIN AL ](https://www.youtube.com/playlist?list=PL0-xwzAwzllx4w5OYdRoVTqlNvQ7xALNM)
