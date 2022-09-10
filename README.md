@@ -4,8 +4,12 @@ HACK İÇİN YARARLI WEB SİTELERİ GARDAŞ AL KULLAN
 # **HACK İÇİN WEB KAYNAKLARI**
 * [sundowndev / hacker-roadmap](https://github.com/sundowndev/hacker-roadmap#rocket-web-hacking)
 * [The-Art-of-Hacking / h4cker](https://github.com/The-Art-of-Hacking/h4cker)
+* [!!!-CAPEC-!!!](https://capec.mitre.org/index.html)
+* [!!!-CWE-!!!](https://cwe.mitre.org/index.html)
+* [The Web Application Security Consortium](http://projects.webappsec.org/w/page/13246970/Threat%20Classification%20Enumeration%20View)
 * [Lissy93 / personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 * [Web uygulama güvenliği kursu](https://kyilmaz80.gitbook.io/lyk2019-wug/)
+* [metasploit Documentation](https://docs.rapid7.com/metasploit/)
 * [geeksforgeeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
 * [whoami.securitybreached](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/)
 * [hacksplaining](https://www.hacksplaining.com)
