@@ -20,6 +20,8 @@ HACK İÇİN YARARLI WEB SİTELERİ GARDAŞ AL KULLAN
 * [turkhackteam](https://www.https://www.turkhackteam.org.org)
 * [spyhackz](https://spyhackz.com/forum/)
 * [ayyıldız](https://forum.ayyildiz.org)
+* [Solutions Discover all Rapid7 Solutions](https://www.rapid7.com/solutions/)
+* [Resources](https://www.rapid7.com/resources/)
 * [metasploit documentation](https://docs.metasploit.com)
 * [LuNiZz](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/BaglantilarVeBilgiler.md#bugbounty)
 * [thecybermentor](https://www.thecybermentor.com)
