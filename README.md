@@ -7,6 +7,7 @@ HACK İÇİN YARARLI WEB SİTELERİ GARDAŞ AL KULLAN
 * [OWASP™ Foundation the free and open software security community](https://wiki.owasp.org/index.php/Main_Page)
 * [!!!-CAPEC-!!!](https://capec.mitre.org/index.html)
 * [!!!-CWE-!!!](https://cwe.mitre.org/index.html)
+* [Fundamentals](https://www.rapid7.com/fundamentals/)
 * [The Web Application Security Consortium](http://projects.webappsec.org/w/page/13246970/Threat%20Classification%20Enumeration%20View)
 * [Lissy93 / personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 * [Web uygulama güvenliği kursu](https://kyilmaz80.gitbook.io/lyk2019-wug/)
