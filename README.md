@@ -46,7 +46,8 @@ HACK İÇİN YARARLI WEB SİTELERİ GARDAŞ AL KULLAN
 * [LuNiZz Hacking The TEMEL](https://www.twitch.tv/collections/sHv1c2HZEhaHFQ)
 * [LuNiZz HACK](https://www.twitch.tv/collections/JbIfA4EXwxXZ_A)
 * [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&t=19648s)
-* [ David Bombal// Kali Linux: Ethical Hacking Getting Started Course](https://www.youtube.com/playlist?list=PLhfrWIlLOoKMe1Ue0IdeULQvEgCgQ3a1B)
+* [David Bombal// Kali Linux: Ethical Hacking Getting Started Course](https://www.youtube.com/playlist?list=PLhfrWIlLOoKMe1Ue0IdeULQvEgCgQ3a1B)
+* [2022 Cybersecurity roadmap: How to get started?](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPqmsoVb0STYzw4IaTe1fxn)
 
 # **YOUTUBE HACK CHANNELL**
 * [EN ÖNEMLİ KANAL 1 => HackerSploit ](https://www.youtube.com/c/HackerSploit/featured)
