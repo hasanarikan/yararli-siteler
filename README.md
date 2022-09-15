@@ -33,6 +33,7 @@ HACK İÇİN YARARLI WEB SİTELERİ GARDAŞ AL KULLAN
 * [IP Analyzer](https://ipalyzer.com)
 * [The Hacker News Logo](https://thehackernews.com)
 * [Black Hat](https://www.blackhat.com)
+* [LiveOverflow//LiveOverflow Web Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP)
 
 # **YOUTUBE HACK PLAYLIST**
 * [-!-Loi Liang Yang/Ethical Hacking and Penetration Testing Series BU PLAYLİSTİ SATIN AL ](https://www.youtube.com/playlist?list=PL0-xwzAwzllx4w5OYdRoVTqlNvQ7xALNM)
