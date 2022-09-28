@@ -8,6 +8,7 @@ HACK İÇİN YARARLI WEB SİTELERİ GARDAŞ AL KULLAN
 * [!!!-CAPEC-!!!](https://capec.mitre.org/index.html)
 * [KALİ TOOLS](https://www.kali.org/tools/)
 * [Kali Docs](https://www.kali.org/docs/)
+* [Screenshot Guru](https://screenshot.guru)
 * [Linux Security Expert](https://linuxsecurity.expert/security-tools/#top10)
 * [!!!-CWE-!!!](https://cwe.mitre.org/index.html)
 * [Fundamentals](https://www.rapid7.com/fundamentals/)
@@ -37,6 +38,8 @@ HACK İÇİN YARARLI WEB SİTELERİ GARDAŞ AL KULLAN
 * [The Hacker News Logo](https://thehackernews.com)
 * [Black Hat](https://www.blackhat.com)
 * [LiveOverflow//LiveOverflow Web Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP)
+* [Security Testing](https://tr.myservername.com/security-testing#4_SQL_Injection_And_XSS_Cross-Site_Scripting)
+* [11 Best Web Application Firewalls Vendors 2021](https://tr.myservername.com/11-best-web-application-firewalls-vendors-2021)
 
 # **YOUTUBE HACK PLAYLIST**
 * [-!-Loi Liang Yang/Ethical Hacking and Penetration Testing Series BU PLAYLİSTİ SATIN AL ](https://www.youtube.com/playlist?list=PL0-xwzAwzllx4w5OYdRoVTqlNvQ7xALNM)
