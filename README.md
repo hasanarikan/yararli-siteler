@@ -40,6 +40,7 @@ HACK İÇİN YARARLI WEB SİTELERİ GARDAŞ AL KULLAN
 * [LiveOverflow//LiveOverflow Web Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP)
 * [Security Testing](https://tr.myservername.com/security-testing#4_SQL_Injection_And_XSS_Cross-Site_Scripting)
 * [11 Best Web Application Firewalls Vendors 2021](https://tr.myservername.com/11-best-web-application-firewalls-vendors-2021)
+* [Sızma Testi Kopya Kağıdı (Pentest Cheatsheet)](http://blog.btrisk.com/2017/05/pentest-cheatsheet.html?m=1)
 
 # **YOUTUBE HACK PLAYLIST**
 * [-!-Loi Liang Yang/Ethical Hacking and Penetration Testing Series BU PLAYLİSTİ SATIN AL ](https://www.youtube.com/playlist?list=PL0-xwzAwzllx4w5OYdRoVTqlNvQ7xALNM)
